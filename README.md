@@ -1,3 +1,4 @@
+[![Build Status](https://azhack.visualstudio.com/AZ%20DevOps%20Day/_apis/build/status/jlong00.pipelines-java?branchName=master)](https://azhack.visualstudio.com/AZ%20DevOps%20Day/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
